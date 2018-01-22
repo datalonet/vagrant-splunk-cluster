@@ -1,0 +1,8 @@
+                192.168.33.130	vagrant-master.local.domain
+		 192.168.33.100	vagrant-idx1.local.domain
+                192.168.33.110	vagrant-idx2.local.domain
+                192.168.33.120	vagrant-idx3.local.domain
+                 192.168.33.140	vagrant-shc1.local.domain
+	        192.168.33.150	vagrant-shc2.local.domain
+                192.168.33.160	vagrant-shc3.local.domain
+                192.168.33.170  vagrant-waf.local.domain
