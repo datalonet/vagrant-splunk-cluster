@@ -58,3 +58,7 @@ The credentials for all systems are: admin/superS3cr3t.
 #REQUIREMENTS:
 * vagrant 1.9 +
 * virtualbox 5.2
+
+
+#REPOSITORY IS NOW IN READONLY (deprecated versions)
+
